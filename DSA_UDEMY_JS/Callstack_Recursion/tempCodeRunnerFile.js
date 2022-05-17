@@ -1,0 +1,1 @@
+someRecursive([4,6,8,9], isOdd) // true
